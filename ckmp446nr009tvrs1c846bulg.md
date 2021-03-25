@@ -51,6 +51,7 @@ export default App;
 ``` 
 
 ```
+html,
 body {
   overflow-x: hidden;
 }
